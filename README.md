@@ -1,11 +1,10 @@
 # AJACS町田
 
 ### 公式ウェブページ
-[統合データベース講習会:AJACS町田](https://events.biosciencedbc.jp/training/)  
+[統合データベース講習会:AJACS町田](https://events.biosciencedbc.jp/training/ajacs74)  
 
 ### 開催概要
 統合データベース講習会：AJACSは、生命科学系のデータベースやツールの使い方、データベースを統合する活動を紹介する初心者向けの講習会です。 
-
 
 
 ### 対象
